@@ -1,0 +1,80 @@
+Challenges
+{
+	"nmo_cabin_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break out of the attic.
+			"1" "21" // Find keys to unlock door.
+			"2" "26" // Release stair gate.
+			"3" "30" // Blast through cabin wall.
+			"4" "40" // Proceed through the underground.
+			"5" "33" // Find the car battery, power up the generator and call for help!
+		}
+	}
+
+	"nmo_cabin_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break out of the attic.
+			"1" "23" // Break planks to proceed.
+			"2" "26" // Release stair gate.
+			"3" "30" // Blast through cabin wall.
+			"4" "40" // Proceed through the underground.
+			"5" "33" // Find the car battery, power up the generator and call for help!
+		}
+	}
+
+	"nmo_cabin_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break out of the attic.
+			"1" "21" // Find keys to unlock door.
+			"2" "26" // Release stair gate.
+			"3" "30" // Blast through cabin wall.
+			"4" "27" // Weld through the kitchen door.
+			"5" "32" // Reconnect the telegraph line.
+			"6" "33" // Find the car battery, power up the generator and call for help!
+		}
+	}
+
+	"nmo_cabin_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break out of the attic.
+			"1" "23" // Break planks to proceed.
+			"2" "25" // Family is the answer, find the secret book.
+			"3" "28" // Enter the book into the shelf.
+			"4" "27" // Weld through the kitchen door.
+			"5" "32" // Reconnect the telegraph line.
+			"6" "33" // Find the car battery, power up the generator and call for help!
+		}
+	}
+
+	"nmo_cabin_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break out of the attic.
+			"1" "23" // Break planks to proceed.
+			"2" "26" // Release stair gate.
+			"3" "30" // Blast through cabin wall.
+			"4" "27" // Weld through the kitchen door.
+			"5" "32" // Reconnect the telegraph line.
+			"6" "33" // Find the car battery, power up the generator and call for help!
+		}
+	}
+}

@@ -1,0 +1,494 @@
+Challenges
+{
+	"nmo_zephyr_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "33" // Code to the door is 2710
+			"5" "35" // Activate the turntable
+			"6" "37" // Throw the switch behind the locomotive
+			"7" "38" // Throw the other switch
+			"8" "39" // Release hand brakes
+			"9" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "45" // Code to the door is 2606
+			"5" "35" // Activate the turntable
+			"6" "37" // Throw the switch behind the locomotive
+			"7" "38" // Throw the other switch
+			"8" "39" // Release hand brakes
+			"9" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "46" // Code to the door is 1901
+			"5" "35" // Activate the turntable
+			"6" "37" // Throw the switch behind the locomotive
+			"7" "38" // Throw the other switch
+			"8" "39" // Release hand brakes
+			"9" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "33" // Code to the door is 2710
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "33" // Code to the door is 2710
+			"5" "35" // Activate the turntable
+			"6" "36" // Unclog the turntable mechanism
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_6"
+	{
+		"Name" "6"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "45" // Code to the door is 2606
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_7"
+	{
+		"Name" "7"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "45" // Code to the door is 2606
+			"5" "35" // Activate the turntable
+			"6" "36" // Unclog the turntable mechanism
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_8"
+	{
+		"Name" "8"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "46" // Code to the door is 1901
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_9"
+	{
+		"Name" "9"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "46" // Code to the door is 1901
+			"5" "35" // Activate the turntable
+			"6" "36" // Unclog the turntable mechanism
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_10"
+	{
+		"Name" "10"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "33" // Code to the door is 2710
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_11"
+	{
+		"Name" "11"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "45" // Code to the door is 2606
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_12"
+	{
+		"Name" "12"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "46" // Code to the door is 1901
+			"6" "35" // Activate the turntable
+			"7" "37" // Throw the switch behind the locomotive
+			"8" "38" // Throw the other switch
+			"9" "39" // Release hand brakes
+			"10" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_13"
+	{
+		"Name" "13"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "33" // Code to the door is 2710
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_14"
+	{
+		"Name" "14"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "45" // Code to the door is 2606
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_15"
+	{
+		"Name" "15"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "28" // Find a way to access the warehouse
+			"2" "32" // Activate elevator and ascend to the upper level
+			"3" "31" // Pickup walkie talkie
+			"4" "46" // Code to the door is 1901
+			"5" "34" // Find fuel to power up generator
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_16"
+	{
+		"Name" "16"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "33" // Code to the door is 2710
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_17"
+	{
+		"Name" "17"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "33" // Code to the door is 2710
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_18"
+	{
+		"Name" "18"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "45" // Code to the door is 2606
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_19"
+	{
+		"Name" "19"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "45" // Code to the door is 2606
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_20"
+	{
+		"Name" "20"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "46" // Code to the door is 1901
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_21"
+	{
+		"Name" "21"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "46" // Code to the door is 1901
+			"6" "35" // Activate the turntable
+			"7" "36" // Unclog the turntable mechanism
+			"8" "37" // Throw the switch behind the locomotive
+			"9" "38" // Throw the other switch
+			"10" "39" // Release hand brakes
+			"11" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_22"
+	{
+		"Name" "22"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "33" // Code to the door is 2710
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "36" // Unclog the turntable mechanism
+			"9" "37" // Throw the switch behind the locomotive
+			"10" "38" // Throw the other switch
+			"11" "39" // Release hand brakes
+			"12" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_23"
+	{
+		"Name" "23"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "45" // Code to the door is 2606
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "36" // Unclog the turntable mechanism
+			"9" "37" // Throw the switch behind the locomotive
+			"10" "38" // Throw the other switch
+			"11" "39" // Release hand brakes
+			"12" "40" // Radio the engineer when ready
+		}
+	}
+
+	"nmo_zephyr_challenge_24"
+	{
+		"Name" "24"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "27" // Find the code and escape the office building
+			"1" "29" // Find a tool to pry open the manhole
+			"2" "30" // Melt the grate using a welder
+			"3" "32" // Activate elevator and ascend to the upper level
+			"4" "31" // Pickup walkie talkie
+			"5" "46" // Code to the door is 1901
+			"6" "34" // Find fuel to power up generator
+			"7" "35" // Activate the turntable
+			"8" "36" // Unclog the turntable mechanism
+			"9" "37" // Throw the switch behind the locomotive
+			"10" "38" // Throw the other switch
+			"11" "39" // Release hand brakes
+			"12" "40" // Radio the engineer when ready
+		}
+	}
+}

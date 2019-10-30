@@ -1,0 +1,146 @@
+Challenges
+{
+	"nmo_broadway_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "31" // Find a way to the basement
+			"2" "34" // Proceed to the bar, Find the key
+			"3" "35" // Turn sprinklers ON
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "31" // Find a way to the basement
+			"2" "34" // Proceed to the bar, Find the key
+			"3" "37" // Find lever for warehouse door
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "28" // Find the key to the cinema backdoor
+			"1" "30" // Find battery, power up truck
+			"2" "39" // Take propane to cafe
+			"3" "35" // Turn sprinklers ON
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "28" // Find the key to the cinema backdoor
+			"1" "30" // Find battery, power up truck
+			"2" "39" // Take propane to cafe
+			"3" "37" // Find lever for warehouse door
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "28" // Find the key to the cinema backdoor
+			"1" "40" // Weld open motel side entrance
+			"2" "34" // Proceed to the bar, Find the key
+			"3" "35" // Turn sprinklers ON
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_6"
+	{
+		"Name" "6"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "28" // Find the key to the cinema backdoor
+			"1" "40" // Weld open motel side entrance
+			"2" "34" // Proceed to the bar, Find the key
+			"3" "37" // Find lever for warehouse door
+			"4" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_7"
+	{
+		"Name" "7"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "25" // Break through motel side door, Find something suitable to do so
+			"2" "30" // Find battery, power up truck
+			"3" "39" // Take propane to cafe
+			"4" "35" // Turn sprinklers ON
+			"5" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_8"
+	{
+		"Name" "8"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "25" // Break through motel side door, Find something suitable to do so
+			"2" "30" // Find battery, power up truck
+			"3" "39" // Take propane to cafe
+			"4" "37" // Find lever for warehouse door
+			"5" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_9"
+	{
+		"Name" "9"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "25" // Break through motel side door, Find something suitable to do so
+			"2" "40" // Weld open motel side entrance
+			"3" "34" // Proceed to the bar, Find the key
+			"4" "35" // Turn sprinklers ON
+			"5" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+
+	"nmo_broadway_challenge_10"
+	{
+		"Name" "10"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "24" // Break gate lock
+			"1" "25" // Break through motel side door, Find something suitable to do so
+			"2" "40" // Weld open motel side entrance
+			"3" "34" // Proceed to the bar, Find the key
+			"4" "37" // Find lever for warehouse door
+			"5" "33" // Gain entry to managers office and call for extraction
+		}
+	}
+}

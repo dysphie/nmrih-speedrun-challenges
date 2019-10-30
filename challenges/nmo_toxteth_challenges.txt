@@ -1,0 +1,236 @@
+Challenges
+{
+	"nmo_toxteth_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "25" // Weld through store side entrance
+			"5" "28" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "25" // Weld through store side entrance
+			"5" "29" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "25" // Weld through store side entrance
+			"5" "30" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "26" // Break into the store.
+			"5" "28" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "26" // Break into the store.
+			"5" "29" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_6"
+	{
+		"Name" "6"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "19" // Answer the Phone
+			"2" "20" // Find fuel tank to blast through garden wall
+			"3" "22" // Use tnt to get through to the store
+			"4" "26" // Break into the store.
+			"5" "30" // Find dead staff member to enter warehouse office
+			"6" "34" // Call for help
+			"7" "47" // Proceed back to Hartington road
+			"8" "33" // Answer the phone
+			"9" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_7"
+	{
+		"Name" "7"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "25" // Weld through store side entrance
+			"6" "28" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_8"
+	{
+		"Name" "8"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "25" // Weld through store side entrance
+			"6" "29" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_9"
+	{
+		"Name" "9"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "25" // Weld through store side entrance
+			"6" "30" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_10"
+	{
+		"Name" "10"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "26" // Break into the store.
+			"6" "28" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_11"
+	{
+		"Name" "11"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "26" // Break into the store.
+			"6" "29" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+
+	"nmo_toxteth_challenge_12"
+	{
+		"Name" "12"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "17" // Proceed to Hartington road
+			"1" "45" // Use welder on manhole cover
+			"2" "42" // Find crank to open door
+			"3" "43" // Proceed to the chapel
+			"4" "22" // Use tnt to get through to the store
+			"5" "26" // Break into the store.
+			"6" "30" // Find dead staff member to enter warehouse office
+			"7" "34" // Call for help
+			"8" "47" // Proceed back to Hartington road
+			"9" "33" // Answer the phone
+			"10" "35" // Use welder on 3 wall sockets to cause a fire!
+		}
+	}
+}

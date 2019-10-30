@@ -1,0 +1,784 @@
+Challenges
+{
+	"nmo_broadway2_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "34" // Find a ladder, use it to climb through ceiling hole
+			"3" "38" // Exit the cinema to the alleyway
+			"4" "42" // Weld open alley gate
+			"5" "41" // Find battery for the FastEx van in the garage
+			"6" "43" // Take a gascan to store rear entrance
+			"7" "45" // Find Radio to call for help
+			"8" "52" // Weld gate and get to the roof top for extraction
+			"9" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "34" // Find a ladder, use it to climb through ceiling hole
+			"3" "38" // Exit the cinema to the alleyway
+			"4" "42" // Weld open alley gate
+			"5" "41" // Find battery for the FastEx van in the garage
+			"6" "43" // Take a gascan to store rear entrance
+			"7" "45" // Find Radio to call for help
+			"8" "52" // Weld gate and get to the roof top for extraction
+			"9" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "31" // Go down hole to the sewers
+			"4" "49" // Navigate the sewers
+			"5" "46" // Make your way back to the streets
+			"6" "51" // Use Tank to blast into store.
+			"7" "45" // Find Radio to call for help
+			"8" "52" // Weld gate and get to the roof top for extraction
+			"9" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "31" // Go down hole to the sewers
+			"4" "49" // Navigate the sewers
+			"5" "46" // Make your way back to the streets
+			"6" "51" // Use Tank to blast into store.
+			"7" "45" // Find Radio to call for help
+			"8" "52" // Weld gate and get to the roof top for extraction
+			"9" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "34" // Find a ladder, use it to climb through ceiling hole
+			"3" "38" // Exit the cinema to the alleyway
+			"4" "39" // Go to the basketball court through hole in fence
+			"5" "40" // Survive for 2 minutes
+			"6" "41" // Find battery for the FastEx van in the garage
+			"7" "43" // Take a gascan to store rear entrance
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_6"
+	{
+		"Name" "6"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "34" // Find a ladder, use it to climb through ceiling hole
+			"3" "38" // Exit the cinema to the alleyway
+			"4" "39" // Go to the basketball court through hole in fence
+			"5" "40" // Survive for 2 minutes
+			"6" "41" // Find battery for the FastEx van in the garage
+			"7" "43" // Take a gascan to store rear entrance
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_7"
+	{
+		"Name" "7"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "31" // Go down hole to the sewers
+			"5" "49" // Navigate the sewers
+			"6" "46" // Make your way back to the streets
+			"7" "51" // Use Tank to blast into store.
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_8"
+	{
+		"Name" "8"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "31" // Go down hole to the sewers
+			"5" "49" // Navigate the sewers
+			"6" "46" // Make your way back to the streets
+			"7" "51" // Use Tank to blast into store.
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_9"
+	{
+		"Name" "9"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "34" // Find a ladder, use it to climb through ceiling hole
+			"4" "38" // Exit the cinema to the alleyway
+			"5" "42" // Weld open alley gate
+			"6" "41" // Find battery for the FastEx van in the garage
+			"7" "43" // Take a gascan to store rear entrance
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_10"
+	{
+		"Name" "10"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "34" // Find a ladder, use it to climb through ceiling hole
+			"4" "38" // Exit the cinema to the alleyway
+			"5" "42" // Weld open alley gate
+			"6" "41" // Find battery for the FastEx van in the garage
+			"7" "43" // Take a gascan to store rear entrance
+			"8" "45" // Find Radio to call for help
+			"9" "52" // Weld gate and get to the roof top for extraction
+			"10" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_11"
+	{
+		"Name" "11"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "18" // Break boards to get in cinema side entrance
+			"2" "28" // Use welder on stairs gate
+			"3" "36" // Find lever and go to the boiler room
+			"4" "25" // Find keys to open theater doors
+			"5" "38" // Exit the cinema to the alleyway
+			"6" "42" // Weld open alley gate
+			"7" "41" // Find battery for the FastEx van in the garage
+			"8" "43" // Take a gascan to store rear entrance
+			"9" "45" // Find Radio to call for help
+			"10" "52" // Weld gate and get to the roof top for extraction
+			"11" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_12"
+	{
+		"Name" "12"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "18" // Break boards to get in cinema side entrance
+			"2" "28" // Use welder on stairs gate
+			"3" "36" // Find lever and go to the boiler room
+			"4" "25" // Find keys to open theater doors
+			"5" "38" // Exit the cinema to the alleyway
+			"6" "42" // Weld open alley gate
+			"7" "41" // Find battery for the FastEx van in the garage
+			"8" "43" // Take a gascan to store rear entrance
+			"9" "45" // Find Radio to call for help
+			"10" "52" // Weld gate and get to the roof top for extraction
+			"11" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_13"
+	{
+		"Name" "13"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "34" // Find a ladder, use it to climb through ceiling hole
+			"4" "38" // Exit the cinema to the alleyway
+			"5" "39" // Go to the basketball court through hole in fence
+			"6" "40" // Survive for 2 minutes
+			"7" "41" // Find battery for the FastEx van in the garage
+			"8" "43" // Take a gascan to store rear entrance
+			"9" "45" // Find Radio to call for help
+			"10" "52" // Weld gate and get to the roof top for extraction
+			"11" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_14"
+	{
+		"Name" "14"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "34" // Find a ladder, use it to climb through ceiling hole
+			"4" "38" // Exit the cinema to the alleyway
+			"5" "39" // Go to the basketball court through hole in fence
+			"6" "40" // Survive for 2 minutes
+			"7" "41" // Find battery for the FastEx van in the garage
+			"8" "43" // Take a gascan to store rear entrance
+			"9" "45" // Find Radio to call for help
+			"10" "52" // Weld gate and get to the roof top for extraction
+			"11" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_15"
+	{
+		"Name" "15"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "18" // Break boards to get in cinema side entrance
+			"2" "28" // Use welder on stairs gate
+			"3" "36" // Find lever and go to the boiler room
+			"4" "25" // Find keys to open theater doors
+			"5" "38" // Exit the cinema to the alleyway
+			"6" "39" // Go to the basketball court through hole in fence
+			"7" "40" // Survive for 2 minutes
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_16"
+	{
+		"Name" "16"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "18" // Break boards to get in cinema side entrance
+			"2" "28" // Use welder on stairs gate
+			"3" "36" // Find lever and go to the boiler room
+			"4" "25" // Find keys to open theater doors
+			"5" "38" // Exit the cinema to the alleyway
+			"6" "39" // Go to the basketball court through hole in fence
+			"7" "40" // Survive for 2 minutes
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_17"
+	{
+		"Name" "17"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "26" // Climb through toilet vents
+			"3" "27" // Climb through vents
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "42" // Weld open alley gate
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_18"
+	{
+		"Name" "18"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "26" // Climb through toilet vents
+			"3" "27" // Climb through vents
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "42" // Weld open alley gate
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_19"
+	{
+		"Name" "19"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "28" // Use welder on stairs gate
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "42" // Weld open alley gate
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_20"
+	{
+		"Name" "20"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "28" // Use welder on stairs gate
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "42" // Weld open alley gate
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_21"
+	{
+		"Name" "21"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "31" // Go down hole to the sewers
+			"4" "49" // Navigate the sewers
+			"5" "46" // Make your way back to the streets
+			"6" "50" // Go to basketball court
+			"7" "40" // Survive for 2 minutes
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_22"
+	{
+		"Name" "22"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "31" // Go down hole to the sewers
+			"4" "49" // Navigate the sewers
+			"5" "46" // Make your way back to the streets
+			"6" "50" // Go to basketball court
+			"7" "40" // Survive for 2 minutes
+			"8" "41" // Find battery for the FastEx van in the garage
+			"9" "43" // Take a gascan to store rear entrance
+			"10" "45" // Find Radio to call for help
+			"11" "52" // Weld gate and get to the roof top for extraction
+			"12" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_23"
+	{
+		"Name" "23"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "26" // Climb through toilet vents
+			"3" "27" // Climb through vents
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "39" // Go to the basketball court through hole in fence
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_24"
+	{
+		"Name" "24"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "19" // Gain entry to the cinema
+			"2" "26" // Climb through toilet vents
+			"3" "27" // Climb through vents
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "39" // Go to the basketball court through hole in fence
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_25"
+	{
+		"Name" "25"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "28" // Use welder on stairs gate
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "42" // Weld open alley gate
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_26"
+	{
+		"Name" "26"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "28" // Use welder on stairs gate
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "42" // Weld open alley gate
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_27"
+	{
+		"Name" "27"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "31" // Go down hole to the sewers
+			"5" "49" // Navigate the sewers
+			"6" "46" // Make your way back to the streets
+			"7" "50" // Go to basketball court
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_28"
+	{
+		"Name" "28"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "31" // Go down hole to the sewers
+			"5" "49" // Navigate the sewers
+			"6" "46" // Make your way back to the streets
+			"7" "50" // Go to basketball court
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_29"
+	{
+		"Name" "29"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "26" // Climb through toilet vents
+			"4" "27" // Climb through vents
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "42" // Weld open alley gate
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_30"
+	{
+		"Name" "30"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "26" // Climb through toilet vents
+			"4" "27" // Climb through vents
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "42" // Weld open alley gate
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_31"
+	{
+		"Name" "31"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "28" // Use welder on stairs gate
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "39" // Go to the basketball court through hole in fence
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_32"
+	{
+		"Name" "32"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "28" // Use welder on stairs gate
+			"4" "36" // Find lever and go to the boiler room
+			"5" "25" // Find keys to open theater doors
+			"6" "38" // Exit the cinema to the alleyway
+			"7" "39" // Go to the basketball court through hole in fence
+			"8" "40" // Survive for 2 minutes
+			"9" "41" // Find battery for the FastEx van in the garage
+			"10" "43" // Take a gascan to store rear entrance
+			"11" "45" // Find Radio to call for help
+			"12" "52" // Weld gate and get to the roof top for extraction
+			"13" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_33"
+	{
+		"Name" "33"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "28" // Use welder on stairs gate
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "39" // Go to the basketball court through hole in fence
+			"9" "40" // Survive for 2 minutes
+			"10" "41" // Find battery for the FastEx van in the garage
+			"11" "43" // Take a gascan to store rear entrance
+			"12" "45" // Find Radio to call for help
+			"13" "52" // Weld gate and get to the roof top for extraction
+			"14" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_34"
+	{
+		"Name" "34"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "29" // Carry on through hotel
+			"3" "37" // Go down hole to progress
+			"4" "28" // Use welder on stairs gate
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "39" // Go to the basketball court through hole in fence
+			"9" "40" // Survive for 2 minutes
+			"10" "41" // Find battery for the FastEx van in the garage
+			"11" "43" // Take a gascan to store rear entrance
+			"12" "45" // Find Radio to call for help
+			"13" "52" // Weld gate and get to the roof top for extraction
+			"14" "54" // Get back to the basketball court for extraction
+		}
+	}
+
+	"nmo_broadway2_challenge_35"
+	{
+		"Name" "35"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "26" // Climb through toilet vents
+			"4" "27" // Climb through vents
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "39" // Go to the basketball court through hole in fence
+			"9" "40" // Survive for 2 minutes
+			"10" "41" // Find battery for the FastEx van in the garage
+			"11" "43" // Take a gascan to store rear entrance
+			"12" "45" // Find Radio to call for help
+			"13" "52" // Weld gate and get to the roof top for extraction
+			"14" "53" // Go down the fire escape to extract via the train
+		}
+	}
+
+	"nmo_broadway2_challenge_36"
+	{
+		"Name" "36"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "16" // Find welder to exit the apartments
+			"1" "20" // Go to the Hotel
+			"2" "32" // Go through basement door
+			"3" "26" // Climb through toilet vents
+			"4" "27" // Climb through vents
+			"5" "36" // Find lever and go to the boiler room
+			"6" "25" // Find keys to open theater doors
+			"7" "38" // Exit the cinema to the alleyway
+			"8" "39" // Go to the basketball court through hole in fence
+			"9" "40" // Survive for 2 minutes
+			"10" "41" // Find battery for the FastEx van in the garage
+			"11" "43" // Take a gascan to store rear entrance
+			"12" "45" // Find Radio to call for help
+			"13" "52" // Weld gate and get to the roof top for extraction
+			"14" "54" // Get back to the basketball court for extraction
+		}
+	}
+}

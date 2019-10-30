@@ -1,0 +1,2490 @@
+Challenges
+{
+	"nmo_suzhou_challenge_1"
+	{
+		"Name" "1"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "38" // Find an IED to blow up the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "29" // Find a way to signal the boat
+			"7" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_2"
+	{
+		"Name" "2"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "43" // Find a welder to open the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "29" // Find a way to signal the boat
+			"7" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_3"
+	{
+		"Name" "3"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "38" // Find an IED to blow up the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "31" // Power is down, find a car battery to run it
+			"7" "29" // Find a way to signal the boat
+			"8" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_4"
+	{
+		"Name" "4"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "38" // Find an IED to blow up the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "44" // Find some fuel
+			"7" "63" // Set fire to the evac center using a welder to signal the boat!
+			"8" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_5"
+	{
+		"Name" "5"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "43" // Find a welder to open the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "31" // Power is down, find a car battery to run it
+			"7" "29" // Find a way to signal the boat
+			"8" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_6"
+	{
+		"Name" "6"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "43" // Find a welder to open the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "44" // Find some fuel
+			"7" "63" // Set fire to the evac center using a welder to signal the boat!
+			"8" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_7"
+	{
+		"Name" "7"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "39" // Find explosives to destroy tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "29" // Find a way to signal the boat
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_8"
+	{
+		"Name" "8"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "40" // Extinguish tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "29" // Find a way to signal the boat
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_9"
+	{
+		"Name" "9"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "38" // Find an IED to blow up the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "31" // Power is down, find a car battery to run it
+			"7" "44" // Find some fuel
+			"8" "63" // Set fire to the evac center using a welder to signal the boat!
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_10"
+	{
+		"Name" "10"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "43" // Find a welder to open the alley door
+			"4" "30" // Continue to evac station
+			"5" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"6" "31" // Power is down, find a car battery to run it
+			"7" "44" // Find some fuel
+			"8" "63" // Set fire to the evac center using a welder to signal the boat!
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_11"
+	{
+		"Name" "11"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "38" // Find an IED to blow up the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "29" // Find a way to signal the boat
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_12"
+	{
+		"Name" "12"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "43" // Find a welder to open the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "29" // Find a way to signal the boat
+			"9" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_13"
+	{
+		"Name" "13"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "32" // Find a car battery to power the door
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_14"
+	{
+		"Name" "14"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "39" // Find explosives to destroy tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_15"
+	{
+		"Name" "15"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "39" // Find explosives to destroy tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "44" // Find some fuel
+			"9" "63" // Set fire to the evac center using a welder to signal the boat!
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_16"
+	{
+		"Name" "16"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "40" // Extinguish tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_17"
+	{
+		"Name" "17"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "40" // Extinguish tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "44" // Find some fuel
+			"9" "63" // Set fire to the evac center using a welder to signal the boat!
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_18"
+	{
+		"Name" "18"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "39" // Find explosives to destroy tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_19"
+	{
+		"Name" "19"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "40" // Extinguish tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_20"
+	{
+		"Name" "20"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "38" // Find an IED to blow up the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_21"
+	{
+		"Name" "21"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "38" // Find an IED to blow up the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "44" // Find some fuel
+			"9" "63" // Set fire to the evac center using a welder to signal the boat!
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_22"
+	{
+		"Name" "22"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "43" // Find a welder to open the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "29" // Find a way to signal the boat
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_23"
+	{
+		"Name" "23"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "43" // Find a welder to open the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "44" // Find some fuel
+			"9" "63" // Set fire to the evac center using a welder to signal the boat!
+			"10" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_24"
+	{
+		"Name" "24"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "27" // Clear the path by moving the truck
+			"7" "46" // Cross canal via the truck
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_25"
+	{
+		"Name" "25"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "32" // Find a car battery to power the door
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_26"
+	{
+		"Name" "26"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "32" // Find a car battery to power the door
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_27"
+	{
+		"Name" "27"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "39" // Find explosives to destroy tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_28"
+	{
+		"Name" "28"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "40" // Extinguish tire fort
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_29"
+	{
+		"Name" "29"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_30"
+	{
+		"Name" "30"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_31"
+	{
+		"Name" "31"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "32" // Find a car battery to power the door
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_32"
+	{
+		"Name" "32"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "39" // Find explosives to destroy tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_33"
+	{
+		"Name" "33"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "39" // Find explosives to destroy tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_34"
+	{
+		"Name" "34"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "40" // Extinguish tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_35"
+	{
+		"Name" "35"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "40" // Extinguish tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_36"
+	{
+		"Name" "36"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_37"
+	{
+		"Name" "37"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "29" // Find a way to signal the boat
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_38"
+	{
+		"Name" "38"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "38" // Find an IED to blow up the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_39"
+	{
+		"Name" "39"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "43" // Find a welder to open the alley door
+			"6" "30" // Continue to evac station
+			"7" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"8" "31" // Power is down, find a car battery to run it
+			"9" "44" // Find some fuel
+			"10" "63" // Set fire to the evac center using a welder to signal the boat!
+			"11" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_40"
+	{
+		"Name" "40"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "27" // Clear the path by moving the truck
+			"7" "46" // Cross canal via the truck
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_41"
+	{
+		"Name" "41"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "27" // Clear the path by moving the truck
+			"7" "46" // Cross canal via the truck
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_42"
+	{
+		"Name" "42"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "32" // Find a car battery to power the door
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_43"
+	{
+		"Name" "43"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_44"
+	{
+		"Name" "44"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_45"
+	{
+		"Name" "45"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_46"
+	{
+		"Name" "46"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_47"
+	{
+		"Name" "47"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_48"
+	{
+		"Name" "48"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "27" // Clear the path by moving the truck
+			"8" "46" // Cross canal via the truck
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_49"
+	{
+		"Name" "49"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "32" // Find a car battery to power the door
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_50"
+	{
+		"Name" "50"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "32" // Find a car battery to power the door
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_51"
+	{
+		"Name" "51"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "39" // Find explosives to destroy tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_52"
+	{
+		"Name" "52"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "40" // Extinguish tire fort
+			"7" "30" // Continue to evac station
+			"8" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"9" "31" // Power is down, find a car battery to run it
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_53"
+	{
+		"Name" "53"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_54"
+	{
+		"Name" "54"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_55"
+	{
+		"Name" "55"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_56"
+	{
+		"Name" "56"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_57"
+	{
+		"Name" "57"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "44" // Find some fuel
+			"11" "63" // Set fire to the evac center using a welder to signal the boat!
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_58"
+	{
+		"Name" "58"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "39" // Find explosives to destroy tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_59"
+	{
+		"Name" "59"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "40" // Extinguish tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "29" // Find a way to signal the boat
+			"12" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_60"
+	{
+		"Name" "60"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "24" // Bridge the canal and cross it
+			"4" "47" // Search for evac station
+			"5" "26" // Go down the alley path
+			"6" "27" // Clear the path by moving the truck
+			"7" "46" // Cross canal via the truck
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_61"
+	{
+		"Name" "61"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_62"
+	{
+		"Name" "62"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_63"
+	{
+		"Name" "63"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_64"
+	{
+		"Name" "64"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_65"
+	{
+		"Name" "65"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_66"
+	{
+		"Name" "66"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "27" // Clear the path by moving the truck
+			"8" "46" // Cross canal via the truck
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_67"
+	{
+		"Name" "67"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "27" // Clear the path by moving the truck
+			"8" "46" // Cross canal via the truck
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_68"
+	{
+		"Name" "68"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "32" // Find a car battery to power the door
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_69"
+	{
+		"Name" "69"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_70"
+	{
+		"Name" "70"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_71"
+	{
+		"Name" "71"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_72"
+	{
+		"Name" "72"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "39" // Find explosives to destroy tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_73"
+	{
+		"Name" "73"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "40" // Extinguish tire fort
+			"8" "30" // Continue to evac station
+			"9" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"10" "31" // Power is down, find a car battery to run it
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_74"
+	{
+		"Name" "74"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "39" // Find explosives to destroy tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_75"
+	{
+		"Name" "75"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "40" // Extinguish tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_76"
+	{
+		"Name" "76"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "32" // Find a car battery to power the door
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_77"
+	{
+		"Name" "77"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "39" // Find explosives to destroy tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_78"
+	{
+		"Name" "78"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "39" // Find explosives to destroy tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_79"
+	{
+		"Name" "79"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "40" // Extinguish tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "29" // Find a way to signal the boat
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_80"
+	{
+		"Name" "80"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "40" // Extinguish tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "44" // Find some fuel
+			"12" "63" // Set fire to the evac center using a welder to signal the boat!
+			"13" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_81"
+	{
+		"Name" "81"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_82"
+	{
+		"Name" "82"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_83"
+	{
+		"Name" "83"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_84"
+	{
+		"Name" "84"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "47" // Search for evac station
+			"6" "26" // Go down the alley path
+			"7" "27" // Clear the path by moving the truck
+			"8" "46" // Cross canal via the truck
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_85"
+	{
+		"Name" "85"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_86"
+	{
+		"Name" "86"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_87"
+	{
+		"Name" "87"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "32" // Find a car battery to power the door
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_88"
+	{
+		"Name" "88"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "32" // Find a car battery to power the door
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_89"
+	{
+		"Name" "89"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "39" // Find explosives to destroy tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_90"
+	{
+		"Name" "90"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "39" // Find explosives to destroy tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_91"
+	{
+		"Name" "91"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "40" // Extinguish tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_92"
+	{
+		"Name" "92"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "40" // Extinguish tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_93"
+	{
+		"Name" "93"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "27" // Clear the path by moving the truck
+			"10" "46" // Cross canal via the truck
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_94"
+	{
+		"Name" "94"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "32" // Find a car battery to power the door
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "29" // Find a way to signal the boat
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_95"
+	{
+		"Name" "95"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "32" // Find a car battery to power the door
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_96"
+	{
+		"Name" "96"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "39" // Find explosives to destroy tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_97"
+	{
+		"Name" "97"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "40" // Extinguish tire fort
+			"9" "30" // Continue to evac station
+			"10" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"11" "31" // Power is down, find a car battery to run it
+			"12" "44" // Find some fuel
+			"13" "63" // Set fire to the evac center using a welder to signal the boat!
+			"14" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_98"
+	{
+		"Name" "98"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "25" // Cross the bridge
+			"2" "36" // Find a way to enter the Old Quarter
+			"3" "42" // Find gas to drench barricade in
+			"4" "34" // Ignite the barricade using a welder
+			"5" "37" // The fire is not dying, find an extinguisher
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_99"
+	{
+		"Name" "99"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "24" // Bridge the canal and cross it
+			"6" "47" // Search for evac station
+			"7" "26" // Go down the alley path
+			"8" "27" // Clear the path by moving the truck
+			"9" "46" // Cross canal via the truck
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_100"
+	{
+		"Name" "100"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "27" // Clear the path by moving the truck
+			"11" "46" // Cross canal via the truck
+			"12" "30" // Continue to evac station
+			"13" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"14" "29" // Find a way to signal the boat
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_101"
+	{
+		"Name" "101"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "32" // Find a car battery to power the door
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "31" // Power is down, find a car battery to run it
+			"14" "29" // Find a way to signal the boat
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_102"
+	{
+		"Name" "102"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "32" // Find a car battery to power the door
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_103"
+	{
+		"Name" "103"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "39" // Find explosives to destroy tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_104"
+	{
+		"Name" "104"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "40" // Extinguish tire fort
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_105"
+	{
+		"Name" "105"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "27" // Clear the path by moving the truck
+			"10" "46" // Cross canal via the truck
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "31" // Power is down, find a car battery to run it
+			"14" "29" // Find a way to signal the boat
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_106"
+	{
+		"Name" "106"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "27" // Clear the path by moving the truck
+			"10" "46" // Cross canal via the truck
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_107"
+	{
+		"Name" "107"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "32" // Find a car battery to power the door
+			"10" "30" // Continue to evac station
+			"11" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"12" "31" // Power is down, find a car battery to run it
+			"13" "44" // Find some fuel
+			"14" "63" // Set fire to the evac center using a welder to signal the boat!
+			"15" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_108"
+	{
+		"Name" "108"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "27" // Clear the path by moving the truck
+			"11" "46" // Cross canal via the truck
+			"12" "30" // Continue to evac station
+			"13" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"14" "31" // Power is down, find a car battery to run it
+			"15" "29" // Find a way to signal the boat
+			"16" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_109"
+	{
+		"Name" "109"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "27" // Clear the path by moving the truck
+			"11" "46" // Cross canal via the truck
+			"12" "30" // Continue to evac station
+			"13" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"14" "44" // Find some fuel
+			"15" "63" // Set fire to the evac center using a welder to signal the boat!
+			"16" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_110"
+	{
+		"Name" "110"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "32" // Find a car battery to power the door
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "31" // Power is down, find a car battery to run it
+			"14" "44" // Find some fuel
+			"15" "63" // Set fire to the evac center using a welder to signal the boat!
+			"16" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_111"
+	{
+		"Name" "111"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "47" // Search for evac station
+			"8" "26" // Go down the alley path
+			"9" "27" // Clear the path by moving the truck
+			"10" "46" // Cross canal via the truck
+			"11" "30" // Continue to evac station
+			"12" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"13" "31" // Power is down, find a car battery to run it
+			"14" "44" // Find some fuel
+			"15" "63" // Set fire to the evac center using a welder to signal the boat!
+			"16" "66" // Rescue is coming! Survive!
+		}
+	}
+
+	"nmo_suzhou_challenge_112"
+	{
+		"Name" "112"
+		"Description" ""
+		"Objectives"
+		{
+			"0" "33" // Find a way out of the station
+			"1" "35" // Main entrance blocked, find alternative exit
+			"2" "23" // Find your way to Lindun Road
+			"3" "25" // Cross the bridge
+			"4" "36" // Find a way to enter the Old Quarter
+			"5" "42" // Find gas to drench barricade in
+			"6" "34" // Ignite the barricade using a welder
+			"7" "37" // The fire is not dying, find an extinguisher
+			"8" "47" // Search for evac station
+			"9" "26" // Go down the alley path
+			"10" "27" // Clear the path by moving the truck
+			"11" "46" // Cross canal via the truck
+			"12" "30" // Continue to evac station
+			"13" "28" // Evac station has succumbed to infection! Use radio to call help!
+			"14" "31" // Power is down, find a car battery to run it
+			"15" "44" // Find some fuel
+			"16" "63" // Set fire to the evac center using a welder to signal the boat!
+			"17" "66" // Rescue is coming! Survive!
+		}
+	}
+}
