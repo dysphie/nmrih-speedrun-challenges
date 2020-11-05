@@ -1,4 +1,4 @@
-Challenges
+"Challenges"
 {
 	"nmo_toxteth_challenge_1"
 	{

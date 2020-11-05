@@ -1,4 +1,4 @@
-Challenges
+"Challenges"
 {
 	"nmo_suzhou_challenge_1"
 	{

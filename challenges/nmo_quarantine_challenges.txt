@@ -1,4 +1,4 @@
-Challenges
+"Challenges"
 {
 	"nmo_quarantine_challenge_1"
 	{

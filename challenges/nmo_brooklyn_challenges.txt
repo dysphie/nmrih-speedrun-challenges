@@ -1,4 +1,4 @@
-Challenges
+"Challenges"
 {
 	"nmo_brooklyn_challenge_1"
 	{

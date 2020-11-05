@@ -1,4 +1,4 @@
-Challenges
+"Challenges"
 {
 	"nmo_cabin_challenge_1"
 	{
